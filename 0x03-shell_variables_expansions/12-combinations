@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | cut -oo
+echo {a..z}{a..z} | cut -c "oo"
