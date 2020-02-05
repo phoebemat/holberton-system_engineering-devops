@@ -1,0 +1,4 @@
+#!/bin/bash
+sed -ne '1~2p'
+
+
